@@ -1,0 +1,14 @@
+langchain
+langchain-community
+lancedb
+numpy
+pydantic
+aiohttp
+pandas
+transformers
+langchain-ollama
+--extra-index-url https://download.pytorch.org/whl/nightly/cpu
+--pre
+torch
+onnxruntime
+InstructorEmbedding
